@@ -1,0 +1,13 @@
+scipy
+opencv
+opencv-contrib-python
+matplotlib
+scikit-image
+dlib
+face-recognition
+cvlib
+progressbar 
+requests
+flask
+keras
+tensorflow
