@@ -16,3 +16,4 @@ tra@thura-pc:~$ jupyter notebook
 - 01 : Read, Display and Write Images
 - 02 : Image Manipulaions
 - 03 : Geometric Transformations
+- 04 : Thresholding
