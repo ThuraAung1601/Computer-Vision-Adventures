@@ -4,11 +4,11 @@ My Tutorials, Labs and Blogs for learning Computer Vision. Most of the blogs are
 
 ## Contents
 
-01 : Python Programming
-02 : Image Processing
-03 : Machine Learning
-04 : Deep Learning
+- 01 : Python Programming
+- 02 : Image Processing
+- 03 : Machine Learning
+- 04 : Deep Learning
 
-Thura Aung,
-IT Engineering,
+Thura Aung, <br />
+IT Engineering, <br />
 Kyaukse Technological University
