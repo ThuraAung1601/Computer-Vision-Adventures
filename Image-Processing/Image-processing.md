@@ -17,3 +17,4 @@ tra@thura-pc:~$ jupyter notebook
 - 02 : Image Manipulaions
 - 03 : Geometric Transformations
 - 04 : Thresholding
+- 05 : Filtering - Smoothing
