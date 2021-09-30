@@ -1,6 +1,6 @@
 # Computer-Vision-Adventures
 
-Tutorials, Labs and Blogs for learning Computer Vision. Most of the blogs are written in Burmese Language as these adventures were aimed at those who have difficulities to learn Computer Vision under tough circumstances happening in Burma/Myanmar. This project might take some times as I have to discuss covering most important topics in Computer Vision field. Being an undergrad student who is still struggling with both practical and theoritical aspects, Comments, Contributions and Suggestions are opened.
+Tutorials, Labs and Blogs for learning Computer Vision. Most of the blogs are written in Burmese Language as these adventures were aimed at those who have difficulities to learn Computer Vision under tough situations happening in Burma/Myanmar. This project might take some times as I have to discuss covering most important topics in Computer Vision field. Being an undergrad student who is still struggling with both practical and theoritical aspects, Comments, Contributions and Suggestions are opened.
 
 ## Modules
 
