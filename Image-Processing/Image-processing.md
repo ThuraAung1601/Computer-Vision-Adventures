@@ -18,3 +18,4 @@ tra@thura-pc:~$ jupyter notebook
 - 03 : Geometric Transformations
 - 04 : Thresholding
 - 05 : Filtering - Smoothing
+- 06 : Edge and Corner Detection
