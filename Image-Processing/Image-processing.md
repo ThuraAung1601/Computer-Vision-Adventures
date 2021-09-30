@@ -19,3 +19,4 @@ tra@thura-pc:~$ jupyter notebook
 - 04 : Thresholding
 - 05 : Filtering - Smoothing
 - 06 : Edge and Corner Detection
+- 07 : Image Segmentation
