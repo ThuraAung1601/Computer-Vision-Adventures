@@ -1,2 +1,2 @@
-## Machine Learning for Computer Vision
+## Computer Vision Projects
 
