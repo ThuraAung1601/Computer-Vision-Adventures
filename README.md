@@ -8,6 +8,7 @@
      - Filterning [[Video](https://youtu.be/AM4DtHhfGaA)]
      - Edge Detection [[Video](https://youtu.be/hHDkMs0LUGk)]
      - Image Segmentation [[Video](https://youtu.be/g0OtPMZW9fU)]
+     - Feature Detection [[Video](https://youtu.be/pdcBVxtVr0Y)]
 - 03 : Machine Learning
 - 04 : Deep Learning
 - 05 : Labs
