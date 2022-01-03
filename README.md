@@ -1,6 +1,10 @@
 # Computer-Vision-Adventures
 
-## Modules
+Computee Vision နဲ့ ပက်သက်တဲ့ အ​ခြေခံ အ​ကြောင်းအရာ​တွေကို မြန်မာဘာသာနဲ့ ​ဆွေး​နွေးထားကြတာ ဖြစ်ပါတယ်။ ၄ ပတ်ကြာ ​ဆွေး​နွေးပြီး Lab ​တွေလည်း လုပ်ခဲ့ပါတယ်။ 
+<br/>
+Additional Reading ကလည်း မြန်မာ ဘာသာစကားနဲ့ Blog ဖြစ်ပါတယ်။ လိုအပ်ချက်များကို ထောက်ပြနိုင်ရန်နဲ့ ​ဆွေး​နွေး အကြံပြုချက်များအတွက် ​Github အ​ကောင့်ပါ Contact များမှာ ဆက်သွယ်နိုင်ပါတယ်။
+
+## Chapters
 
 - Slides are available [HERE](https://github.com/ThuraAung1601/Computer-Vision-Adventures/Slides).
 - 01 : Python Programming [[Video](https://youtu.be/5MNltrJ2yCA)]
