@@ -1,4 +1,4 @@
-# Computer-Vision-Adventures
+# Introduction to Computer Vision using Python
 
 Computer Vision နဲ့ ပက်သက်တဲ့ အ​ခြေခံ အ​ကြောင်းအရာ​တွေကို မြန်မာဘာသာနဲ့ ​ဆွေး​နွေးထားကြတာ ဖြစ်ပါတယ်။ ၄ ပတ်ကြာ ​ဆွေး​နွေးပြီး Lab ​တွေလည်း လုပ်ခဲ့ပါတယ်။ 
 <br/>
