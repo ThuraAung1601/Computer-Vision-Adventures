@@ -6,7 +6,7 @@ Additional Reading ကလည်း မြန်မာ ဘာသာစကား�
 
 ## Chapters
 
-- Slides are available [HERE](https://github.com/ThuraAung1601/Computer-Vision-Adventures/Slides).
+- Slides are in Slide folder. Assignemnt is also given.
 - 01 : Python Programming [[Video](https://youtu.be/5MNltrJ2yCA)]
 - 02 : Image Processing
      - Digital Image Basics [[Video](https://youtu.be/6ZFBJUIcy6M)]
