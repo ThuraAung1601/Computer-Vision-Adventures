@@ -39,7 +39,7 @@ Additional Reading ကလည်း မြန်မာ ဘာသာစကား�
 - [Viola Jones Face Detector](https://link.medium.com/NFracLLfpmb)
 
 Buy me a Coffee ☕
-< br/>
+<br/>
 ​ကျွန်​တော့်ကို ကော်ဖီ ဝယ်တိုက်ချင်ရင် KPay က​နေ ဝယ်တိုက်လို့ ရပါတယ်။
-< br/>
+<br/>
 KPay — https://imgur.com/a/cWxY3zl
