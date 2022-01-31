@@ -14,6 +14,7 @@ Additional Reading ကလည်း မြန်မာ ဘာသာစကား�
      - Edge Detection [[Video](https://youtu.be/hHDkMs0LUGk)]
      - Image Segmentation [[Video](https://youtu.be/g0OtPMZW9fU)]
      - Feature Detection [[Video](https://youtu.be/pdcBVxtVr0Y)]
+     - Feature Descriptors [[Video](https://youtu.be/DBP6w2TlwAg)]
 - 03 : Machine Learning
      - Machine Learning Fundamentals [[Video](https://youtu.be/1rhj55RXE38)]
      - Walkthrough on Machine Learning Algorithms [[Video](https://youtu.be/jZS5-3SWFco)]
