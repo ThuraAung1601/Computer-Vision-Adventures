@@ -22,6 +22,7 @@ Additional Reading ကလည်း မြန်မာ ဘာသာစကား�
 - 03 : Machine Learning
      - Machine Learning Fundamentals [[Video](https://youtu.be/1rhj55RXE38)]
      - Walkthrough on Machine Learning Algorithms [[Video](https://youtu.be/jZS5-3SWFco)]
+     - Machine Learning for Visual Recognition [[Video]()]
 - 04 : Deep Learning
      - ConvNets [[Video](https://youtu.be/Tsv6fxLbccQ)]
 - 05 : Labs
