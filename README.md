@@ -43,9 +43,3 @@ Additional Reading ကလည်း မြန်မာ ဘာသာစကား�
 - [Essential evaluation metrics for classification problems](https://thuraaung-1601.medium.com/essential-evaluation-metrics-for-classification-problems-267d87d8238)
 - [Introduction to Optimization ALgorithms](https://thuraaung-1601.medium.com/optimization-algorithms-for-deep-learning-introduction-d27fdb35e254)
 - [Viola Jones Face Detector](https://link.medium.com/NFracLLfpmb)
-
-Buy me a Coffee ☕
-<br/>
-​ကျွန်​တော့်ကို ကော်ဖီ ဝယ်တိုက်ချင်ရင် KPay က​နေ ဝယ်တိုက်လို့ ရပါတယ်။
-<br/>
-KPay — https://imgur.com/a/cWxY3zl
